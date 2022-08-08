@@ -1,0 +1,7 @@
+Scanner input = new Scanner(System.in);
+nome = input.nextLine();
+Integer.valueOf(input.nextLine());
+Float.valueOf(input.nextLine());
+Double.valueOf(input.nextLine());
+ Boolean.valueOf(input.nextLine());
+input.nextLine().charAt(0)
